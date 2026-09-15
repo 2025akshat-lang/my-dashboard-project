@@ -1,0 +1,10 @@
+{
+  "description": "Submit and organize all your materials easily with an interactive platform designed for efficient content management and quick access.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
